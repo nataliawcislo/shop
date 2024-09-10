@@ -13,13 +13,10 @@ This is a simple shopping app built with SwiftUI, StoreKit for handling in-app p
 
 ## Demo Video: Shop App with Apple Pay and StoreKit Integration
 
-Watch the demo video below:
-
-[![Shop App Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/nataliawcislo/shop/blob/main/video.mov)
-
-Click the image above to watch the video.
-
-Alternatively, you can [click here to view the video](https://github.com/nataliawcislo/shop/blob/main/video.mov) directly.
+<video width="600" controls>
+  <source src="https://github.com/nataliawcislo/shop/blob/main/video.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
