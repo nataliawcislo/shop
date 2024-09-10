@@ -15,9 +15,11 @@ This is a simple shopping app built with SwiftUI, StoreKit for handling in-app p
 
 Watch the demo video below:
 
-[![Shop App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Shop App Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/nataliawcislo/shop/blob/main/video.mov)
 
 Click the image above to watch the video.
+
+Alternatively, you can [click here to view the video](https://github.com/nataliawcislo/shop/blob/main/video.mov) directly.
 
 ## Installation
 
