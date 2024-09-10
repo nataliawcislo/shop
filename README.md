@@ -11,14 +11,18 @@ This is a simple shopping app built with SwiftUI, StoreKit for handling in-app p
 - **In-App Purchases**: Integrated StoreKit to handle product purchases with the App Store.
 - **Dynamic Price Calculation**: The total cart price is dynamically calculated based on the items in the cart.
 
-## Screenshots
+## Demo Video: Shop App with Apple Pay and StoreKit Integration
 
-<!-- Include screenshots here -->
+Watch the demo video below:
+
+[![Shop App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+Click the image above to watch the video.
 
 ## Installation
 
-1. **Clone the repository:**
+...
 
-   ```bash
-   git clone https://github.com/your-username/shop-app.git
-   cd shop-app
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
